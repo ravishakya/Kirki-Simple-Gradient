@@ -4,7 +4,7 @@
 **Author URI  :** https://bizbergthemes.com  
 **License     :** GNU General Public License v2 or later  
 **License URI :** http://www.gnu.org/licenses/gpl-2.0.html  
-**Version     :** 0.1
+**Version     :** 0.2
 
 ## Description ##
 
@@ -49,6 +49,9 @@ echo esc_attr( $body_background );
 You will need to install the kirki plugin first https://wordpress.org/plugins/kirki/
 
 ## Changelog ##
+
+= 0.2 =
+- Fixed prefix
 
 = 0.1 =
 - Initial Release
